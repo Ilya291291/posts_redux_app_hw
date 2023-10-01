@@ -1,0 +1,9 @@
+.likes {
+    display: flex;
+    gap: 0.3rem;
+    justify-content: flex-start;
+}
+
+svg {
+    vertical-align: bottom;
+}

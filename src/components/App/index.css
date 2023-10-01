@@ -1,0 +1,7 @@
+body {
+    background-color: #1e212d;
+    color: #eabf;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
