@@ -34,13 +34,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 | `/src/pages`			           			| Api, route files 						 																  |
 | `/src/utils`			           			| Config file																  |
 | `/src/styles`			         				| Css global styling 																						|
-| `/src/components`       					| React components    																					|
-store 						 																  |
-| `/src/store`			           			| Redux store																  |
-types 						 																  |
-| `/src/types`			           			| TypeScript types																  |
-services 						 																  |
-| `/src/services`			           			| API calls																  |
+| `/src/components`       					| React components    																					|						 																  |
+| `/src/store`			           			| Redux store																  |						 																  |
+| `/src/types`			           			| TypeScript types																  |						 																  |
+| `/src/services`			           		| API calls																  |
 
 
 ### Learn More
